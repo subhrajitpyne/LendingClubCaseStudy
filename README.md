@@ -286,7 +286,7 @@ Upon analyzing on all the points, We have derived some points which Lending Club
 - [pandas - Version 2.2.2](https://github.com/pandas-dev/pandas)
 - [matplotlib - Version 3.9.0](https://github.com/matplotlib)
 - [seaborn - Version 0.13.2](https://github.com/seaborn)
-- [Jupyter Lab - Version 4.4.2]
+- [Jupyter Lab - Version 4.4.2](https://jupyter.org/install)
 
 ## Acknowledgements and References
 
