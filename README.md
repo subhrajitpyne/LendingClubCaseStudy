@@ -33,7 +33,7 @@ Now, there are two usecases where organization may lose credit :-
 
 ## Objectives
 
-The purpose is to _identify potential defaulters_. Identification of such applicants using data analysis using the given [dataset](./loan.csv), is the main target of this case study.
+The purpose is to _identify potential defaulters_. Identification of such applicants using data analysis using the given [dataset](**loan.csv**), is the main target of this case study.
 
 This will significantly reduce the credit loss for the organization.
 
